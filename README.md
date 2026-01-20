@@ -56,7 +56,6 @@ I build automation that **actually helps teams**: faster regression, fewer produ
 ### Cloud & Infrastructure
 ![OpenStack](https://img.shields.io/badge/OpenStack-f7fafa?style=for-the-badge&logo=openstack&logoColor=000000)
 ![Docker](https://img.shields.io/badge/Docker-f7fafa?style=for-the-badge&logo=docker&logoColor=000000)
-![Aiven](https://img.shields.io/badge/Aiven_Cloud-f7fafa?style=for-the-badge&logoColor=000000)
 
 ### CI/CD & Reporting
 ![Jenkins](https://img.shields.io/badge/Jenkins-f7fafa?style=for-the-badge&logo=jenkins&logoColor=000000)
