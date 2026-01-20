@@ -33,7 +33,7 @@ I build automation that **actually helps teams**: faster regression, fewer produ
 
 ## Tech Stack
 
-![Java](https://img.shields.io/badge/Java_17-f7fafa?style=for-the-badge&logo=OpenJDK&logoColor=000000)
+![Java](https://img.shields.io/badge/Java-f7fafa?style=for-the-badge&logo=OpenJDK&logoColor=000000)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-f7fafa?style=for-the-badge&logo=spring&logoColor=000000)
 ![Maven](https://img.shields.io/badge/Maven-f7fafa?style=for-the-badge&logo=apachemaven&logoColor=000000)
 ![JUnit 5](https://img.shields.io/badge/JUnit_5-f7fafa?style=for-the-badge&logo=junit5&logoColor=000000)
