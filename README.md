@@ -34,28 +34,45 @@ I build automation that **actually helps teams**: faster regression, fewer produ
 ## Tech Stack
 
 ### Language & Platform
-[![Java](https://img.shields.io/badge/Java-17-orange.svg)](https://www.oracle.com/java/)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-brightgreen.svg)](https://spring.io/projects/spring-boot)
-[![Maven](https://img.shields.io/badge/Maven-3.x-red.svg)](https://maven.apache.org/)
+![Java](https://img.shields.io/badge/Java_17-f7fafa?style=for-the-badge&logo=OpenJDK&logoColor=000000)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-f7fafa?style=for-the-badge&logo=spring&logoColor=000000)
+![Maven](https://img.shields.io/badge/Maven-f7fafa?style=for-the-badge&logo=apachemaven&logoColor=000000)
 
 ### Testing
-[![JUnit](https://img.shields.io/badge/JUnit-5.10.1-red.svg)](https://junit.org/junit5/)
-[![Rest-Assured](https://img.shields.io/badge/Rest--Assured-5.4.0-purple.svg)](https://rest-assured.io/)
-[![Selenide](https://img.shields.io/badge/Selenide-7.x-green.svg)](https://selenide.org/)
-[![Cucumber](https://img.shields.io/badge/Cucumber-BDD-brightgreen.svg)](https://cucumber.io/)
-[![Allure](https://img.shields.io/badge/Allure-2.25.0-yellow.svg)](http://allure.qatools.ru/)
+![JUnit 5](https://img.shields.io/badge/JUnit_5-f7fafa?style=for-the-badge&logo=junit5&logoColor=000000)
+![Selenide](https://img.shields.io/badge/Selenide-f7fafa?style=for-the-badge&logoColor=000000)
+![Selenium](https://img.shields.io/badge/Selenium-f7fafa?style=for-the-badge&logo=selenium&logoColor=000000)
+![REST Assured](https://img.shields.io/badge/REST_Assured_5.3-f7fafa?style=for-the-badge&logoColor=000000)
+![Cucumber](https://img.shields.io/badge/Cucumber_BDD-f7fafa?style=for-the-badge&logo=cucumber&logoColor=000000)
+![WebDriverManager](https://img.shields.io/badge/WebDriverManager-f7fafa?style=for-the-badge&logoColor=000000)
 
 ### Messaging & Data
-[![Kafka](https://img.shields.io/badge/Apache_Kafka-3.6-black.svg)](https://kafka.apache.org/)
-[![Schema Registry](https://img.shields.io/badge/Schema_Registry-Json-blue.svg)](https://docs.confluent.io/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14-blue.svg)](https://www.postgresql.org/)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-f7fafa?style=for-the-badge&logo=apachekafka&logoColor=000000)
+![Kafka Streams](https://img.shields.io/badge/Kafka_Streams-f7fafa?style=for-the-badge&logo=apachekafka&logoColor=000000)
+![Schema Registry](https://img.shields.io/badge/Schema_Registry-f7fafa?style=for-the-badge&logoColor=000000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-f7fafa?style=for-the-badge&logo=postgresql&logoColor=000000)
+![JDBC](https://img.shields.io/badge/JDBC-f7fafa?style=for-the-badge&logoColor=000000)
 
-### CI/CD & Infrastructure
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-black.svg)](https://github.com/features/actions)
-[![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-Pipelines-orange?logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/)
-[![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red.svg)](https://www.jenkins.io/)
-[![Docker](https://img.shields.io/badge/Docker-Container-blue.svg)](https://www.docker.com/)
-[![OpenStack](https://img.shields.io/badge/OpenStack-Cloud-red.svg)](https://www.openstack.org/)
+### Cloud & Infrastructure
+![OpenStack](https://img.shields.io/badge/OpenStack-f7fafa?style=for-the-badge&logo=openstack&logoColor=000000)
+![Docker](https://img.shields.io/badge/Docker-f7fafa?style=for-the-badge&logo=docker&logoColor=000000)
+![Aiven](https://img.shields.io/badge/Aiven_Cloud-f7fafa?style=for-the-badge&logoColor=000000)
+
+### CI/CD & Reporting
+![Jenkins](https://img.shields.io/badge/Jenkins-f7fafa?style=for-the-badge&logo=jenkins&logoColor=000000)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-f7fafa?style=for-the-badge&logo=githubactions&logoColor=000000)
+![Allure](https://img.shields.io/badge/Allure_Report-f7fafa?style=for-the-badge&logoColor=000000)
+![Allure TestOps](https://img.shields.io/badge/Allure_TestOps-f7fafa?style=for-the-badge&logoColor=000000)
+
+### Version Control & Tools
+![Git](https://img.shields.io/badge/Git-f7fafa?style=for-the-badge&logo=git&logoColor=000000)
+![GitHub](https://img.shields.io/badge/GitHub-f7fafa?style=for-the-badge&logo=github&logoColor=000000)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-f7fafa?style=for-the-badge&logo=intellijidea&logoColor=000000)
+
+### Integrations and notifications
+![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot-f7fafa?style=for-the-badge&logo=telegram&logoColor=000000)
+![Slack API](https://img.shields.io/badge/Slack_API-f7fafa?style=for-the-badge&logo=slack&logoColor=000000)
+![Email SMTP](https://img.shields.io/badge/Email_SMTP-f7fafa?style=for-the-badge&logoColor=000000)
 
 ---
 
