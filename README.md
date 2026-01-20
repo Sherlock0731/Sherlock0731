@@ -39,7 +39,7 @@ I build automation that **actually helps teams**: faster regression, fewer produ
 ![JUnit 5](https://img.shields.io/badge/JUnit_5-f7fafa?style=for-the-badge&logo=junit5&logoColor=000000)
 ![Selenide](https://img.shields.io/badge/Selenide-f7fafa?style=for-the-badge&logoColor=000000)
 ![Selenium](https://img.shields.io/badge/Selenium-f7fafa?style=for-the-badge&logo=selenium&logoColor=000000)
-![REST Assured](https://img.shields.io/badge/REST_Assured_5.3-f7fafa?style=for-the-badge&logoColor=000000)
+![REST Assured](https://img.shields.io/badge/REST_Assured-f7fafa?style=for-the-badge&logoColor=000000)
 ![Cucumber](https://img.shields.io/badge/Cucumber_BDD-f7fafa?style=for-the-badge&logo=cucumber&logoColor=000000)
 ![WebDriverManager](https://img.shields.io/badge/WebDriverManager-f7fafa?style=for-the-badge&logoColor=000000)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-f7fafa?style=for-the-badge&logo=apachekafka&logoColor=000000)
