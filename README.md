@@ -33,42 +33,29 @@ I build automation that **actually helps teams**: faster regression, fewer produ
 
 ## Tech Stack
 
-### Language & Platform
 ![Java](https://img.shields.io/badge/Java_17-f7fafa?style=for-the-badge&logo=OpenJDK&logoColor=000000)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-f7fafa?style=for-the-badge&logo=spring&logoColor=000000)
 ![Maven](https://img.shields.io/badge/Maven-f7fafa?style=for-the-badge&logo=apachemaven&logoColor=000000)
-
-### Testing
 ![JUnit 5](https://img.shields.io/badge/JUnit_5-f7fafa?style=for-the-badge&logo=junit5&logoColor=000000)
 ![Selenide](https://img.shields.io/badge/Selenide-f7fafa?style=for-the-badge&logoColor=000000)
 ![Selenium](https://img.shields.io/badge/Selenium-f7fafa?style=for-the-badge&logo=selenium&logoColor=000000)
 ![REST Assured](https://img.shields.io/badge/REST_Assured_5.3-f7fafa?style=for-the-badge&logoColor=000000)
 ![Cucumber](https://img.shields.io/badge/Cucumber_BDD-f7fafa?style=for-the-badge&logo=cucumber&logoColor=000000)
 ![WebDriverManager](https://img.shields.io/badge/WebDriverManager-f7fafa?style=for-the-badge&logoColor=000000)
-
-### Messaging & Data
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-f7fafa?style=for-the-badge&logo=apachekafka&logoColor=000000)
 ![Kafka Streams](https://img.shields.io/badge/Kafka_Streams-f7fafa?style=for-the-badge&logo=apachekafka&logoColor=000000)
 ![Schema Registry](https://img.shields.io/badge/Schema_Registry-f7fafa?style=for-the-badge&logoColor=000000)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-f7fafa?style=for-the-badge&logo=postgresql&logoColor=000000)
 ![JDBC](https://img.shields.io/badge/JDBC-f7fafa?style=for-the-badge&logoColor=000000)
-
-### Cloud & Infrastructure
 ![OpenStack](https://img.shields.io/badge/OpenStack-f7fafa?style=for-the-badge&logo=openstack&logoColor=000000)
 ![Docker](https://img.shields.io/badge/Docker-f7fafa?style=for-the-badge&logo=docker&logoColor=000000)
-
-### CI/CD & Reporting
 ![Jenkins](https://img.shields.io/badge/Jenkins-f7fafa?style=for-the-badge&logo=jenkins&logoColor=000000)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-f7fafa?style=for-the-badge&logo=githubactions&logoColor=000000)
 ![Allure](https://img.shields.io/badge/Allure_Report-f7fafa?style=for-the-badge&logoColor=000000)
 ![Allure TestOps](https://img.shields.io/badge/Allure_TestOps-f7fafa?style=for-the-badge&logoColor=000000)
-
-### Version Control & Tools
 ![Git](https://img.shields.io/badge/Git-f7fafa?style=for-the-badge&logo=git&logoColor=000000)
 ![GitHub](https://img.shields.io/badge/GitHub-f7fafa?style=for-the-badge&logo=github&logoColor=000000)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-f7fafa?style=for-the-badge&logo=intellijidea&logoColor=000000)
-
-### Integrations and notifications
 ![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot-f7fafa?style=for-the-badge&logo=telegram&logoColor=000000)
 ![Slack API](https://img.shields.io/badge/Slack_API-f7fafa?style=for-the-badge&logo=slack&logoColor=000000)
 ![Email SMTP](https://img.shields.io/badge/Email_SMTP-f7fafa?style=for-the-badge&logoColor=000000)
