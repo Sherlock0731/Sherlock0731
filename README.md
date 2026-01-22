@@ -28,7 +28,7 @@ I build automation that **actually helps teams**: faster regression, fewer produ
 - Kafka load tested: **1M+ messages per day**
 - Production bugs reduced by **83%**
 - CI/CD testing is performed on every pull request and every nightly scheduled run
-- Integrated self-hosted AI models into the test automation framework, building a self-learning quality analysis system.
+- Designed and integrated self-hosted AI models into the test automation framework, building a self-learning quality intelligence system.
   - Automated failure analysis: root cause detection, defect categorization, fix recommendations
   - Pattern analysis: quality trends, risk zones detection, performance bottlenecks
   - AI-driven test generation: scenarios, edge cases, proactive coverage suggestions
