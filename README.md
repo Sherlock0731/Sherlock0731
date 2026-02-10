@@ -162,8 +162,9 @@ Kafka automation framework for event-driven systems.
 
 ## Contacts
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vitaliy1357)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tstvitali@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vitaliy1357)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sherlock0731&theme=tokyo-night)
 
 ---
 
