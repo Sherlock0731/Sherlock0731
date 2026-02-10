@@ -140,8 +140,7 @@ Kafka automation framework for event-driven systems.
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Sherlock0731&show_icons=true&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sherlock0731&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sherlock0731&theme=tokyonight)
 
 </div>
 
