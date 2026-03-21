@@ -129,7 +129,7 @@ BDD automation framework.
 Kafka automation framework for event-driven systems.
 
 - SSL / SASL
-- Json + Schema Registry
+- Json
 - Exactly-once semantics
 - DLQ validation
 - Performance testing
