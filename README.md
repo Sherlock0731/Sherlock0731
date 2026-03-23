@@ -161,6 +161,15 @@ Kafka automation framework for event-driven systems.
 
 ---
 
+<div align="center">
+  
+### 💬 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
 ## Contacts
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vitaliy1357)
