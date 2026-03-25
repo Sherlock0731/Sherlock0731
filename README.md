@@ -38,6 +38,18 @@ I build automation that **actually helps teams**: faster regression, fewer produ
 
 ---
 
+## What I Bring to the Team
+
+- Automation framework architecture
+- Test strategy design
+- CI/CD integration
+- Code review and mentoring
+- Regression optimization
+- Kafka and event-driven testing
+- Documentation and onboarding
+
+---
+
 ## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-f7fafa?style=for-the-badge&logo=OpenJDK&logoColor=000000)
@@ -146,18 +158,6 @@ Kafka automation framework for event-driven systems.
 
 
 </div>
-
----
-
-## What I Bring to the Team
-
-- Automation framework architecture
-- Test strategy design
-- CI/CD integration
-- Code review and mentoring
-- Regression optimization
-- Kafka and event-driven testing
-- Documentation and onboarding
 
 ---
 
