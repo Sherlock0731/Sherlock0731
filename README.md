@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vitaliy — Fullstack QA Engineer
+# Vitaliy - Fullstack QA Engineer
 
 </div>
 
