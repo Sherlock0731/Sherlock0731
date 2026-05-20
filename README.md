@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vitaliy — QA Automation Engineer
+# Vitaliy — Fullstack QA Engineer
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ## About Me
 
-QA Automation Engineer with **6.5+ years of experience** in building enterprise-level test automation frameworks.
+Fullstack QA Engineer with **6.5+ years of experience** in building enterprise-level test automation frameworks.
 
 My main focus:
 - API / UI / Kafka testing
@@ -40,13 +40,15 @@ I build automation that **actually helps teams**: faster regression, fewer produ
 
 ## What I Bring to the Team
 
-- Automation framework architecture
-- Test strategy design
-- CI/CD integration
+- Full testing cycle ownership: manual functional, integration, and regression testing
+- Automation framework architecture (UI / API / DB / Kafka)
+- Test strategy design and documentation
+- CI/CD integration and pipeline configuration
+- Defect lifecycle management and root cause analysis
+- Log analysis and monitoring (Kibana)
 - Code review and mentoring
-- Regression optimization
-- Kafka and event-driven testing
-- Documentation and onboarding
+- Regression optimization and flaky test elimination
+- Onboarding and knowledge transfer
 
 ---
 
