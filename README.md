@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vitaliy - Fullstack QA Engineer
+# Vitaliy - Automation QA Engineer
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ## About Me
 
-Fullstack QA Engineer with **6.5+ years of experience** in building enterprise-level test automation frameworks.
+Automation QA Engineer with **6.5+ years of experience** in building enterprise-level test automation frameworks.
 
 My main focus:
 - API / UI / Kafka testing
